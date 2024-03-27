@@ -32,13 +32,13 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
-  font-family: 'Counter', monospace;
+  font-family: "Counter", monospace;
   padding: 3px 10px;
 }
 
 @font-face {
-  font-family: 'Counter';
-  src: url('../files/KodeMono.ttf') format('truetype');
+  font-family: "Counter";
+  src: url("../files/KodeMono.ttf") format("truetype");
 }
 
 button {
@@ -56,8 +56,7 @@ button:hover {
   border-color: #646cff;
 }
 
-
-.countnum{
+.countnum {
   margin-bottom: 10px;
   margin-top: 10px;
   color: #fff;
@@ -67,7 +66,7 @@ button:hover {
   border-radius: 10px;
 }
 
-.bigger{
+.bigger {
   font-size: xx-large;
   height: 50px;
   width: 33%;
@@ -77,17 +76,17 @@ button:hover {
   margin-top: 5px;
 }
 /**/
-.add{
+.add {
   background-color: #2d6360;
   color: white;
 }
 
-.unadd{
+.unadd {
   background-color: #5d0885;
   color: white;
 }
 
-.function{
+.function {
   background-color: #3d3d3d;
   color: white;
   height: 25px;
@@ -95,7 +94,7 @@ button:hover {
   margin: 0px;
 }
 
-.tests{
+.tests {
   position: absolute;
   left: 5px;
   bottom: 5px;
