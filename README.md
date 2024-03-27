@@ -1,8 +1,8 @@
 # FirstApp
 
-Napiszę sobię pierwszą apkę w React'cie
+Piszę sobię pierwszą apkę w React'cie
 
-Będzie to Licznik
+Jest to Licznik
 
 Funkcjonalności :
 
